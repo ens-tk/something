@@ -5,6 +5,11 @@
 [![N|Solid](https://pic.rutubelist.ru/video/eb/f8/ebf8d86ddd388ef643c195927b2be660.jpg)]
 
 
+запросы.md - sql-запросы
+
+python шпора.ipynb - шпора питон
+
+
 Латех
 $$V_{1к} = \sqrt{\frac{GM}{R_o}}$$
 $$F = k\frac{\left|q_2\right|*\left|q_2\right|}{Er^2}$$
