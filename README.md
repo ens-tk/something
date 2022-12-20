@@ -79,4 +79,4 @@ $$E = \frac{mc^2}{\sqrt{1-\frac{v^2}{c^2}}}$$
 
 
 ### Решение заданий 19, 20, 21 из демо егэ 2023
-![mermaid-diagram-2022-12-20-111643](https://user-images.githubusercontent.com/95280574/208582831-27178974-effe-4490-ba17-c3e65aa9e22f.png)
+![image](https://user-images.githubusercontent.com/95280574/208586811-0eeeb9ce-7ffd-437c-940d-a034288794d0.png)
