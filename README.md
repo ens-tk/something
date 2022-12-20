@@ -51,4 +51,4 @@ $$E = \frac{mc^2}{\sqrt{1-\frac{v^2}{c^2}}}$$
 26 Магазин_подарков
 27 Глобальные_расчеты_не_терпят_суеты
 
-![mermaid-diagram-2022-12-20-111643](https://user-images.githubusercontent.com/95280574/208582831-27178974-effe-4490-ba17-c3e65aa9e22f.png
+![mermaid-diagram-2022-12-20-111643](https://user-images.githubusercontent.com/95280574/208582831-27178974-effe-4490-ba17-c3e65aa9e22f.png)
